@@ -40,7 +40,7 @@ divisions 필드가 있으면 내 직무와 맞는 부문만 골라줘.
 | [`data/postings.json`](https://raw.githubusercontent.com/ysl-bots/Recruit-Subscribe-IT/main/data/postings.json) | 지금 열려 있는 공고 전체 (매일 갱신) |
 | [`data/weekly/`](data/weekly) | 주차별(YYYY-Www.json) Issue에 실린 공고 |
 
-주요 필드: `company_name`, `title`, `deadline`, `deadline_type`(date / rolling / until_filled), `employment`, `job_tags`(사이트 IT 직무 분류), `divisions`(모집 부문, 자소설닷컴만), `it_divisions`, `sources`(원문 링크).
+주요 필드: `company_name`, `title`, `deadline`, `deadline_type`(date / rolling / until_filled), `employment`, `job_tags`(사이트 IT 직무 분류), `divisions`(모집 부문, 자소설닷컴만), `it_divisions`, `sources`(원문 링크), `apply_url`(공채 홈페이지, 없으면 null), `homepage_url`(회사 홈페이지).
 
 > 봇이 수집한 정보는 틀릴 수 있습니다. 지원 전에 반드시 원문을 확인하세요. 공고 본문은 저장·재게시하지 않고 원문 링크만 제공합니다.
 
