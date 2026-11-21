@@ -30,15 +30,15 @@ IT 직무 **신입·인턴** 채용 공고를 매주 모아 이 저장소에 **I
 열린 공고 전체가 JSON으로 매일 갱신됩니다. Codex·Claude Code 같은 에이전트에 이렇게 요청해 보세요.
 
 ```
-https://raw.githubusercontent.com/ysl-bots/Recruit/main/data/postings.json 을 읽고,
+https://raw.githubusercontent.com/ysl-bots/Recruit-Subscribe-IT/main/data/postings.json 을 읽고,
 내 이력([이력 페이지 URL 또는 파일])과 비교해 지원할 만한 공고를 마감일 순으로 정리해줘.
 divisions 필드가 있으면 내 직무와 맞는 부문만 골라줘.
 ```
 
 | 파일 | 내용 |
 | --- | --- |
-| [`data/postings.json`](https://raw.githubusercontent.com/ysl-bots/Recruit/main/data/postings.json) | 지금 열려 있는 공고 전체 (매일 갱신) |
-| `data/weekly/YYYY-Www.json` | 해당 주 Issue에 실린 공고 |
+| [`data/postings.json`](https://raw.githubusercontent.com/ysl-bots/Recruit-Subscribe-IT/main/data/postings.json) | 지금 열려 있는 공고 전체 (매일 갱신) |
+| [`data/weekly/`](data/weekly) | 주차별(YYYY-Www.json) Issue에 실린 공고 |
 
 주요 필드: `company_name`, `title`, `deadline`, `deadline_type`(date / rolling / until_filled), `employment`, `job_tags`(사이트 IT 직무 분류), `divisions`(모집 부문, 자소설닷컴만), `it_divisions`, `sources`(원문 링크).
 
