@@ -4,8 +4,8 @@ IT 직무 **신입·인턴** 채용 공고를 매주 모아 이 저장소에 **I
 
 - 소스: [링커리어](https://linkareer.com), [자소설닷컴](https://jasoseol.com). 여러 곳에 올라온 같은 공고는 하나로 합치고 링크를 모두 겁니다.
 - 발송: 매주 월요일 오전 8시경 (KST)
-- 범위: 신입, 채용연계형·체험형 인턴 (경력 공고 제외)
-- 대기업 공채처럼 여러 부문을 한 번에 뽑는 공고는 IT 부문이 있을 때만 싣고, "분야" 칸에 IT 부문명을 표시합니다.
+- 범위: 각 사이트 필터 기준 **신입·인턴 / IT 직군 / 대기업·중견기업·공기업** 공고
+- "분야" 칸에는 사이트의 IT 직무 분류(자소설닷컴은 IT 모집 부문명)를 표시합니다.
 
 ## Issue 구성
 
@@ -14,7 +14,6 @@ IT 직무 **신입·인턴** 채용 공고를 매주 모아 이 저장소에 **I
 | 마감 임박 (D-7 이내) | 지난주에 소개한 공고도 마감이 가까우면 다시 나옵니다 |
 | 이번 주 신규 | 지난 발행 이후 새로 올라온 공고 (마감일 순) |
 | 상시 · 채용시 마감 | 마감일이 정해지지 않은 공고 |
-| IT 관련 가능성 | 봇이 IT 직무인지 확신하지 못한 공고 (사유 표시) |
 
 ## 구독하기
 
@@ -38,10 +37,10 @@ divisions 필드가 있으면 내 직무와 맞는 부문만 골라줘.
 
 | 파일 | 내용 |
 | --- | --- |
-| [`data/postings.json`](https://raw.githubusercontent.com/ysl-bots/Recruit/main/data/postings.json) | 지금 열려 있는 IT·가능성 공고 전체 (매일 갱신) |
+| [`data/postings.json`](https://raw.githubusercontent.com/ysl-bots/Recruit/main/data/postings.json) | 지금 열려 있는 공고 전체 (매일 갱신) |
 | `data/weekly/YYYY-Www.json` | 해당 주 Issue에 실린 공고 |
 
-주요 필드: `company_name`, `title`, `deadline`, `deadline_type`(date / rolling / until_filled), `employment`, `divisions`(모집 부문과 `is_it`), `it_divisions`, `it_tags`, `it_status`(it / maybe), `sources`(원문 링크).
+주요 필드: `company_name`, `title`, `deadline`, `deadline_type`(date / rolling / until_filled), `employment`, `job_tags`(사이트 IT 직무 분류), `divisions`(모집 부문, 자소설닷컴만), `it_divisions`, `sources`(원문 링크).
 
 > 봇이 수집한 정보는 틀릴 수 있습니다. 지원 전에 반드시 원문을 확인하세요. 공고 본문은 저장·재게시하지 않고 원문 링크만 제공합니다.
 
