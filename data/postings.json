@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T16:20:07+09:00",
+ "updated": "2026-11-22T11:22:09+09:00",
  "count": 120,
  "postings": [
   {
@@ -23,8 +23,11 @@
    ],
    "divisions": null,
    "it_divisions": [],
+   "apply_url": "https://kla.careerlink.kr/jobs/RC20261111039089",
+   "homepage_url": "https://www.kla.com/ko",
+   "detail_checked": true,
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-21",
+   "last_seen": "2026-11-22",
    "published_weeks": [],
    "status": "open"
   },
@@ -49,8 +52,11 @@
    ],
    "divisions": null,
    "it_divisions": [],
+   "apply_url": "https://sdbiosensor.recruiter.co.kr/career/jobs/133866",
+   "homepage_url": "https://www.sdbiosensor.co.kr/",
+   "detail_checked": true,
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-21",
+   "last_seen": "2026-11-22",
    "published_weeks": [],
    "status": "open"
   },
@@ -75,8 +81,11 @@
    ],
    "divisions": null,
    "it_divisions": [],
+   "apply_url": "https://bbq.recruiter.co.kr/career/jobs/133641",
+   "homepage_url": null,
+   "detail_checked": true,
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-21",
+   "last_seen": "2026-11-22",
    "published_weeks": [],
    "status": "open"
   },
@@ -109,8 +118,11 @@
    "it_divisions": [
     "R&D"
    ],
+   "apply_url": "https://career.jeisys.com/job_posting/g7d8f0hh",
+   "homepage_url": null,
+   "detail_checked": false,
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-21",
+   "last_seen": "2026-11-22",
    "published_weeks": [],
    "status": "open"
   },
@@ -135,8 +147,11 @@
    ],
    "divisions": null,
    "it_divisions": [],
+   "apply_url": "https://chokwang.career.greetinghr.com/ko/o/240131",
+   "homepage_url": null,
+   "detail_checked": true,
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-21",
+   "last_seen": "2026-11-22",
    "published_weeks": [],
    "status": "open"
   },
@@ -161,8 +176,40 @@
    ],
    "divisions": null,
    "it_divisions": [],
+   "apply_url": "https://eycareers-kr.recruiter.co.kr/career/jobs/131812",
+   "homepage_url": "https://www.ey.com/ko_kr",
+   "detail_checked": true,
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-21",
+   "last_seen": "2026-11-22",
+   "published_weeks": [],
+   "status": "open"
+  },
+  {
+   "id": "db62adee7799",
+   "company": "naver",
+   "company_name": "네이버",
+   "title": "[네이버] 2027 NAVER 동계 인턴십 : Corporate 트랙",
+   "deadline": "2026-11-23",
+   "deadline_type": "date",
+   "start_date": null,
+   "employment": "체험형 인턴",
+   "sources": [
+    {
+     "source": "linkareer",
+     "source_id": "364520",
+     "url": "https://linkareer.com/activity/364520"
+    }
+   ],
+   "job_tags": [
+    "AI/ML엔지니어"
+   ],
+   "divisions": null,
+   "it_divisions": [],
+   "apply_url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005631&lang=ko",
+   "homepage_url": "https://www.navercorp.com/main",
+   "detail_checked": true,
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-22",
    "published_weeks": [],
    "status": "open"
   },
@@ -190,34 +237,11 @@
    ],
    "divisions": null,
    "it_divisions": [],
+   "apply_url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005630&lang=ko",
+   "homepage_url": "https://www.navercorp.com/main",
+   "detail_checked": true,
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-21",
-   "published_weeks": [],
-   "status": "open"
-  },
-  {
-   "id": "db62adee7799",
-   "company": "naver",
-   "company_name": "네이버",
-   "title": "[네이버] 2027 NAVER 동계 인턴십 : Corporate 트랙",
-   "deadline": "2026-11-23",
-   "deadline_type": "date",
-   "start_date": null,
-   "employment": "체험형 인턴",
-   "sources": [
-    {
-     "source": "linkareer",
-     "source_id": "364520",
-     "url": "https://linkareer.com/activity/364520"
-    }
-   ],
-   "job_tags": [
-    "AI/ML엔지니어"
-   ],
-   "divisions": null,
-   "it_divisions": [],
-   "first_seen": "2026-11-21",
-   "last_seen": "2026-11-21",
+   "last_seen": "2026-11-22",
    "published_weeks": [],
    "status": "open"
   },
@@ -242,8 +266,11 @@
    ],
    "divisions": null,
    "it_divisions": [],
+   "apply_url": "https://univ.careerlink.kr/",
+   "homepage_url": "https://corp.univ.me/",
+   "detail_checked": true,
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-21",
+   "last_seen": "2026-11-22",
    "published_weeks": [],
    "status": "open"
   },
@@ -289,8 +316,11 @@
    "it_divisions": [
     "디지털/IT"
    ],
+   "apply_url": "https://woorifcapital.incruit.com/main/main.asp",
+   "homepage_url": null,
+   "detail_checked": false,
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-21",
+   "last_seen": "2026-11-22",
    "published_weeks": [],
    "status": "open"
   },
@@ -315,8 +345,11 @@
    ],
    "divisions": null,
    "it_divisions": [],
+   "apply_url": "https://recruit.kakaogames.com/ko/o/243139",
+   "homepage_url": "https://kakaogames.com/",
+   "detail_checked": true,
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-21",
+   "last_seen": "2026-11-22",
    "published_weeks": [],
    "status": "open"
   },
@@ -342,8 +375,11 @@
    ],
    "divisions": null,
    "it_divisions": [],
+   "apply_url": "https://www.pearlabyss.com/ko-KR/Company/Careers/List?_jobGroupCode=8",
+   "homepage_url": null,
+   "detail_checked": true,
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-21",
+   "last_seen": "2026-11-22",
    "published_weeks": [],
    "status": "open"
   },
@@ -383,8 +419,11 @@
    "it_divisions": [
     "AI Game Maker"
    ],
+   "apply_url": "https://ai-internship2026.netmarbleneo.com/",
+   "homepage_url": null,
+   "detail_checked": false,
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-21",
+   "last_seen": "2026-11-22",
    "published_weeks": [],
    "status": "open"
   },
@@ -409,34 +448,11 @@
    ],
    "divisions": null,
    "it_divisions": [],
+   "apply_url": "https://lotte-jobcafe.com/",
+   "homepage_url": "https://lotte-jobcafe.com/",
+   "detail_checked": true,
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-21",
-   "published_weeks": [],
-   "status": "open"
-  },
-  {
-   "id": "d35adc9544b4",
-   "company": "네이버랩스",
-   "company_name": "네이버랩스",
-   "title": "[네이버랩스] Indoor Robot Mobility Engineer",
-   "deadline": "2026-11-25",
-   "deadline_type": "date",
-   "start_date": null,
-   "employment": "신입",
-   "sources": [
-    {
-     "source": "linkareer",
-     "source_id": "365538",
-     "url": "https://linkareer.com/activity/365538"
-    }
-   ],
-   "job_tags": [
-    "시스템/ERP개발"
-   ],
-   "divisions": null,
-   "it_divisions": [],
-   "first_seen": "2026-11-21",
-   "last_seen": "2026-11-21",
+   "last_seen": "2026-11-22",
    "published_weeks": [],
    "status": "open"
   },
@@ -461,8 +477,40 @@
    ],
    "divisions": null,
    "it_divisions": [],
+   "apply_url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005717&lang=ko",
+   "homepage_url": "https://www.naverlabs.com/",
+   "detail_checked": true,
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-21",
+   "last_seen": "2026-11-22",
+   "published_weeks": [],
+   "status": "open"
+  },
+  {
+   "id": "d35adc9544b4",
+   "company": "네이버랩스",
+   "company_name": "네이버랩스",
+   "title": "[네이버랩스] Indoor Robot Mobility Engineer",
+   "deadline": "2026-11-25",
+   "deadline_type": "date",
+   "start_date": null,
+   "employment": "신입",
+   "sources": [
+    {
+     "source": "linkareer",
+     "source_id": "365538",
+     "url": "https://linkareer.com/activity/365538"
+    }
+   ],
+   "job_tags": [
+    "시스템/ERP개발"
+   ],
+   "divisions": null,
+   "it_divisions": [],
+   "apply_url": "https://recruit.naverlabs.com/rcrt/view.do?annoId=30005729&lang=ko",
+   "homepage_url": "https://www.naverlabs.com/",
+   "detail_checked": true,
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-22",
    "published_weeks": [],
    "status": "open"
   },
@@ -487,8 +535,40 @@
    ],
    "divisions": null,
    "it_divisions": [],
+   "apply_url": "https://recruit.bkl.co.kr/ko/o/241651",
+   "homepage_url": "https://www.bkl.co.kr/law",
+   "detail_checked": true,
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-21",
+   "last_seen": "2026-11-22",
+   "published_weeks": [],
+   "status": "open"
+  },
+  {
+   "id": "2c1a6d8bfa86",
+   "company": "카카오뱅크",
+   "company_name": "카카오뱅크",
+   "title": "[카카오뱅크] DevOps 엔지니어 (채용연계형 인턴)",
+   "deadline": "2026-11-25",
+   "deadline_type": "date",
+   "start_date": null,
+   "employment": "채용연계형 인턴",
+   "sources": [
+    {
+     "source": "linkareer",
+     "source_id": "363127",
+     "url": "https://linkareer.com/activity/363127"
+    }
+   ],
+   "job_tags": [
+    "DevOps/클라우드/보안"
+   ],
+   "divisions": null,
+   "it_divisions": [],
+   "apply_url": "https://recruit.kakaobank.com/jobs/271437",
+   "homepage_url": "https://www.kakaobank.com/",
+   "detail_checked": true,
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-22",
    "published_weeks": [],
    "status": "open"
   },
@@ -523,34 +603,11 @@
    "it_divisions": [
     "DevOps 엔지니어"
    ],
+   "apply_url": "https://recruit.kakaobank.com/jobs/271437",
+   "homepage_url": null,
+   "detail_checked": false,
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-21",
-   "published_weeks": [],
-   "status": "open"
-  },
-  {
-   "id": "2c1a6d8bfa86",
-   "company": "카카오뱅크",
-   "company_name": "카카오뱅크",
-   "title": "[카카오뱅크] DevOps 엔지니어 (채용연계형 인턴)",
-   "deadline": "2026-11-25",
-   "deadline_type": "date",
-   "start_date": null,
-   "employment": "채용연계형 인턴",
-   "sources": [
-    {
-     "source": "linkareer",
-     "source_id": "363127",
-     "url": "https://linkareer.com/activity/363127"
-    }
-   ],
-   "job_tags": [
-    "DevOps/클라우드/보안"
-   ],
-   "divisions": null,
-   "it_divisions": [],
-   "first_seen": "2026-11-21",
-   "last_seen": "2026-11-21",
+   "last_seen": "2026-11-22",
    "published_weeks": [],
    "status": "open"
   },
@@ -575,8 +632,11 @@
    ],
    "divisions": null,
    "it_divisions": [],
+   "apply_url": "https://eycareers-kr.recruiter.co.kr/career/jobs/134830",
+   "homepage_url": "https://www.ey.com/ko_kr",
+   "detail_checked": true,
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-21",
+   "last_seen": "2026-11-22",
    "published_weeks": [],
    "status": "open"
   },
@@ -601,8 +661,11 @@
    ],
    "divisions": null,
    "it_divisions": [],
+   "apply_url": "https://airfirst.career.greetinghr.com/ko/o/244341",
+   "homepage_url": "https://www.airfst.com/kr/",
+   "detail_checked": true,
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-21",
+   "last_seen": "2026-11-22",
    "published_weeks": [],
    "status": "open"
   },
@@ -628,8 +691,11 @@
    ],
    "divisions": null,
    "it_divisions": [],
+   "apply_url": "https://eycareers-kr.recruiter.co.kr/career/jobs/133364",
+   "homepage_url": "https://www.ey.com/ko_kr",
+   "detail_checked": true,
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-21",
+   "last_seen": "2026-11-22",
    "published_weeks": [],
    "status": "open"
   },
@@ -656,8 +722,11 @@
    ],
    "divisions": null,
    "it_divisions": [],
+   "apply_url": "https://lsitc.recruiter.co.kr/career/jobs/134608",
+   "homepage_url": "https://lsitc.com/",
+   "detail_checked": true,
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-21",
+   "last_seen": "2026-11-22",
    "published_weeks": [],
    "status": "open"
   },
@@ -682,8 +751,11 @@
    ],
    "divisions": null,
    "it_divisions": [],
+   "apply_url": "https://imarketkorea.ninehire.site/job_posting/iDZrf9wb",
+   "homepage_url": "https://www.imarketkorea.com/",
+   "detail_checked": true,
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-21",
+   "last_seen": "2026-11-22",
    "published_weeks": [],
    "status": "open"
   },
@@ -708,8 +780,11 @@
    ],
    "divisions": null,
    "it_divisions": [],
+   "apply_url": "https://ahnlab.recruiter.co.kr/career/Recruiting_2026",
+   "homepage_url": "https://ahnlab.recruiter.co.kr/career/home",
+   "detail_checked": true,
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-21",
+   "last_seen": "2026-11-22",
    "published_weeks": [],
    "status": "open"
   },
@@ -734,8 +809,11 @@
    ],
    "divisions": null,
    "it_divisions": [],
+   "apply_url": "https://techcross.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=272234",
+   "homepage_url": "https://www.techcross.com/",
+   "detail_checked": true,
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-21",
+   "last_seen": "2026-11-22",
    "published_weeks": [],
    "status": "open"
   },
@@ -782,8 +860,11 @@
     "시사교양PD",
     "미디어엔지니어"
    ],
+   "apply_url": "https://mbc.careerlink.kr/jobs/RC20261112039167",
+   "homepage_url": null,
+   "detail_checked": false,
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-21",
+   "last_seen": "2026-11-22",
    "published_weeks": [],
    "status": "open"
   },
@@ -823,8 +904,11 @@
    "it_divisions": [
     "게임기획"
    ],
+   "apply_url": "https://recruit-neoplayer.co.kr/",
+   "homepage_url": null,
+   "detail_checked": false,
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-21",
+   "last_seen": "2026-11-22",
    "published_weeks": [],
    "status": "open"
   },
@@ -849,8 +933,11 @@
    ],
    "divisions": null,
    "it_divisions": [],
+   "apply_url": null,
+   "homepage_url": "https://vinegroup.co.kr/",
+   "detail_checked": true,
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-21",
+   "last_seen": "2026-11-22",
    "published_weeks": [],
    "status": "open"
   },
@@ -876,8 +963,11 @@
    ],
    "divisions": null,
    "it_divisions": [],
+   "apply_url": "https://careers.smilegate.com/apply/announce/view?seq=6262",
+   "homepage_url": "https://www.smilegate.com/ko/",
+   "detail_checked": true,
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-21",
+   "last_seen": "2026-11-22",
    "published_weeks": [],
    "status": "open"
   },
@@ -972,8 +1062,11 @@
     "AI 서비스 개발",
     "융합보안"
    ],
+   "apply_url": "https://ahnlab.recruiter.co.kr/career/jobs/134679",
+   "homepage_url": null,
+   "detail_checked": false,
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-21",
+   "last_seen": "2026-11-22",
    "published_weeks": [],
    "status": "open"
   },
@@ -998,8 +1091,11 @@
    ],
    "divisions": null,
    "it_divisions": [],
+   "apply_url": "https://glninternational.ninehire.site/recruit",
+   "homepage_url": "https://www.glninternational.com/",
+   "detail_checked": true,
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-21",
+   "last_seen": "2026-11-22",
    "published_weeks": [],
    "status": "open"
   },
@@ -1032,8 +1128,11 @@
    "it_divisions": [
     "경영일반(인공지능(AI))"
    ],
+   "apply_url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611160000458&handle=2A1FE6CD14746E9DB3862E135E6D13EABFAF5C59BA582CA2B0C378199E464B97&rf=1",
+   "homepage_url": null,
+   "detail_checked": false,
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-21",
+   "last_seen": "2026-11-22",
    "published_weeks": [],
    "status": "open"
   },
@@ -1072,8 +1171,11 @@
    "it_divisions": [
     "금융업무 기획 및 운영 담당자"
    ],
+   "apply_url": "https://recruit.kakaobank.com/jobs/272465",
+   "homepage_url": null,
+   "detail_checked": false,
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-21",
+   "last_seen": "2026-11-22",
    "published_weeks": [],
    "status": "open"
   },
@@ -1116,8 +1218,11 @@
     "정보보안",
     "어플리케이션 및 ERP 운영"
    ],
+   "apply_url": "https://recruit.ehyundai.com/",
+   "homepage_url": null,
+   "detail_checked": false,
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-21",
+   "last_seen": "2026-11-22",
    "published_weeks": [],
    "status": "open"
   },
@@ -1142,34 +1247,11 @@
    ],
    "divisions": null,
    "it_divisions": [],
+   "apply_url": "https://recruit.ehyundai.com/recruit-info/announcement/view.nhd?hireId=2027004&regCoCd=HDHCN",
+   "homepage_url": "https://hyundaifuturenet.com/index.do",
+   "detail_checked": true,
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-21",
-   "published_weeks": [],
-   "status": "open"
-  },
-  {
-   "id": "9c68a68edaa6",
-   "company": "삼일회계법인",
-   "company_name": "삼일회계법인",
-   "title": "[삼일회계법인] AX Node Backend Engineer (AI-Native Application & Platform) 채용",
-   "deadline": "2026-12-04",
-   "deadline_type": "date",
-   "start_date": null,
-   "employment": "신입",
-   "sources": [
-    {
-     "source": "linkareer",
-     "source_id": "365132",
-     "url": "https://linkareer.com/activity/365132"
-    }
-   ],
-   "job_tags": [
-    "백엔드/서버개발"
-   ],
-   "divisions": null,
-   "it_divisions": [],
-   "first_seen": "2026-11-21",
-   "last_seen": "2026-11-21",
+   "last_seen": "2026-11-22",
    "published_weeks": [],
    "status": "open"
   },
@@ -1194,8 +1276,40 @@
    ],
    "divisions": null,
    "it_divisions": [],
+   "apply_url": "https://www.pwc.com/kr/ko/career/experienced/r261116-3.html",
+   "homepage_url": "https://www.pwc.com/kr/ko.html",
+   "detail_checked": true,
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-21",
+   "last_seen": "2026-11-22",
+   "published_weeks": [],
+   "status": "open"
+  },
+  {
+   "id": "9c68a68edaa6",
+   "company": "삼일회계법인",
+   "company_name": "삼일회계법인",
+   "title": "[삼일회계법인] AX Node Backend Engineer (AI-Native Application & Platform) 채용",
+   "deadline": "2026-12-04",
+   "deadline_type": "date",
+   "start_date": null,
+   "employment": "신입",
+   "sources": [
+    {
+     "source": "linkareer",
+     "source_id": "365132",
+     "url": "https://linkareer.com/activity/365132"
+    }
+   ],
+   "job_tags": [
+    "백엔드/서버개발"
+   ],
+   "divisions": null,
+   "it_divisions": [],
+   "apply_url": "https://www.pwc.com/kr/ko/career/experienced/r261116-2.html",
+   "homepage_url": "https://www.pwc.com/kr/ko.html",
+   "detail_checked": true,
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-22",
    "published_weeks": [],
    "status": "open"
   },
@@ -1236,8 +1350,11 @@
    "it_divisions": [
     "AI 프로덕트 디자이너"
    ],
+   "apply_url": "https://recruit.kakaobank.com/jobs/273021",
+   "homepage_url": null,
+   "detail_checked": false,
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-21",
+   "last_seen": "2026-11-22",
    "published_weeks": [],
    "status": "open"
   },
@@ -1262,8 +1379,11 @@
    ],
    "divisions": null,
    "it_divisions": [],
+   "apply_url": "https://kins.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=272885",
+   "homepage_url": "https://www.kins.re.kr/index",
+   "detail_checked": true,
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-21",
+   "last_seen": "2026-11-22",
    "published_weeks": [],
    "status": "open"
   },
@@ -1325,8 +1445,11 @@
     "정보기술",
     "정보기술(보훈)"
    ],
+   "apply_url": "https://kins.recruiter.co.kr/",
+   "homepage_url": null,
+   "detail_checked": false,
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-21",
+   "last_seen": "2026-11-22",
    "published_weeks": [],
    "status": "open"
   },
@@ -1351,8 +1474,11 @@
    ],
    "divisions": null,
    "it_divisions": [],
+   "apply_url": "https://recruit.webtoonscorp.com/rcrt/view.do?annoId=30005648&sw=&subJobCdArr=&sysCompanyCdArr=&empTypeCdArr=0010%2C0040&entTypeCdArr=&workAreaCdArr=",
+   "homepage_url": "https://comic.naver.com/index",
+   "detail_checked": true,
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-21",
+   "last_seen": "2026-11-22",
    "published_weeks": [],
    "status": "open"
   },
@@ -1385,8 +1511,11 @@
    "it_divisions": [
     "품질관리 (채용연계형 인턴)"
    ],
+   "apply_url": "https://hwashin.ninehire.site/",
+   "homepage_url": null,
+   "detail_checked": false,
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-21",
+   "last_seen": "2026-11-22",
    "published_weeks": [],
    "status": "open"
   },
@@ -1421,8 +1550,11 @@
    "it_divisions": [
     "AI Native 인증 서비스 기획자"
    ],
+   "apply_url": "https://recruit.kakaobank.com/jobs/273031",
+   "homepage_url": null,
+   "detail_checked": false,
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-21",
+   "last_seen": "2026-11-22",
    "published_weeks": [],
    "status": "open"
   },
@@ -1455,8 +1587,11 @@
    "it_divisions": [
     "IDC 운영자 (판교)"
    ],
+   "apply_url": "https://careers.nhn.com/recruits/4442959527668758638",
+   "homepage_url": null,
+   "detail_checked": false,
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-21",
+   "last_seen": "2026-11-22",
    "published_weeks": [],
    "status": "open"
   },
@@ -1483,8 +1618,11 @@
    ],
    "divisions": null,
    "it_divisions": [],
+   "apply_url": "https://apply.lxcareers.com/app/job/RetrieveJobNoticesDetail.rpi?jobNoticeId=16576",
+   "homepage_url": "https://www.lxinternational.com/",
+   "detail_checked": true,
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-21",
+   "last_seen": "2026-11-22",
    "published_weeks": [],
    "status": "open"
   },
@@ -1509,16 +1647,19 @@
    ],
    "divisions": null,
    "it_divisions": [],
+   "apply_url": "https://dine09.career.greetinghr.com/ko/o/200750",
+   "homepage_url": "https://www.dine.co.kr/kr/",
+   "detail_checked": true,
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-21",
+   "last_seen": "2026-11-22",
    "published_weeks": [],
    "status": "open"
   },
   {
-   "id": "808ad95f23e0",
+   "id": "29eac88bc2a8",
    "company": "안랩",
    "company_name": "안랩",
-   "title": "[안랩] [신입/경력] SW개발(Cloud)",
+   "title": "[안랩] SW개발(Linux)",
    "deadline": "2026-12-31",
    "deadline_type": "date",
    "start_date": null,
@@ -1526,8 +1667,38 @@
    "sources": [
     {
      "source": "linkareer",
-     "source_id": "350013",
-     "url": "https://linkareer.com/activity/350013"
+     "source_id": "316655",
+     "url": "https://linkareer.com/activity/316655"
+    }
+   ],
+   "job_tags": [
+    "백엔드/서버개발",
+    "DevOps/클라우드/보안"
+   ],
+   "divisions": null,
+   "it_divisions": [],
+   "apply_url": "https://ahnlab.recruiter.co.kr/career/jobs/99891",
+   "homepage_url": "https://ahnlab.recruiter.co.kr/career/home",
+   "detail_checked": true,
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-22",
+   "published_weeks": [],
+   "status": "open"
+  },
+  {
+   "id": "5567098d8c70",
+   "company": "안랩",
+   "company_name": "안랩",
+   "title": "[안랩] 보안 분석",
+   "deadline": "2026-12-31",
+   "deadline_type": "date",
+   "start_date": null,
+   "employment": "신입",
+   "sources": [
+    {
+     "source": "linkareer",
+     "source_id": "316650",
+     "url": "https://linkareer.com/activity/316650"
     }
    ],
    "job_tags": [
@@ -1535,8 +1706,11 @@
    ],
    "divisions": null,
    "it_divisions": [],
+   "apply_url": "https://ahnlab.recruiter.co.kr/career/jobs/107408",
+   "homepage_url": null,
+   "detail_checked": true,
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-21",
+   "last_seen": "2026-11-22",
    "published_weeks": [],
    "status": "open"
   },
@@ -1563,8 +1737,40 @@
    ],
    "divisions": null,
    "it_divisions": [],
+   "apply_url": "https://ahnlab.recruiter.co.kr/career/jobs/99903",
+   "homepage_url": "https://www.ahnlab.com/ko",
+   "detail_checked": true,
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-21",
+   "last_seen": "2026-11-22",
+   "published_weeks": [],
+   "status": "open"
+  },
+  {
+   "id": "808ad95f23e0",
+   "company": "안랩",
+   "company_name": "안랩",
+   "title": "[안랩] [신입/경력] SW개발(Cloud)",
+   "deadline": "2026-12-31",
+   "deadline_type": "date",
+   "start_date": null,
+   "employment": "신입",
+   "sources": [
+    {
+     "source": "linkareer",
+     "source_id": "350013",
+     "url": "https://linkareer.com/activity/350013"
+    }
+   ],
+   "job_tags": [
+    "DevOps/클라우드/보안"
+   ],
+   "divisions": null,
+   "it_divisions": [],
+   "apply_url": "https://ahnlab.recruiter.co.kr/career/jobs/127951",
+   "homepage_url": "https://www.ahnlab.com/ko",
+   "detail_checked": true,
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-22",
    "published_weeks": [],
    "status": "open"
   },
@@ -1589,87 +1795,11 @@
    ],
    "divisions": null,
    "it_divisions": [],
+   "apply_url": "https://ahnlab.recruiter.co.kr/career/jobs/99903",
+   "homepage_url": "https://ahnlab.recruiter.co.kr/career/home",
+   "detail_checked": true,
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-21",
-   "published_weeks": [],
-   "status": "open"
-  },
-  {
-   "id": "29eac88bc2a8",
-   "company": "안랩",
-   "company_name": "안랩",
-   "title": "[안랩] SW개발(Linux)",
-   "deadline": "2026-12-31",
-   "deadline_type": "date",
-   "start_date": null,
-   "employment": "신입",
-   "sources": [
-    {
-     "source": "linkareer",
-     "source_id": "316655",
-     "url": "https://linkareer.com/activity/316655"
-    }
-   ],
-   "job_tags": [
-    "백엔드/서버개발",
-    "DevOps/클라우드/보안"
-   ],
-   "divisions": null,
-   "it_divisions": [],
-   "first_seen": "2026-11-21",
-   "last_seen": "2026-11-21",
-   "published_weeks": [],
-   "status": "open"
-  },
-  {
-   "id": "5567098d8c70",
-   "company": "안랩",
-   "company_name": "안랩",
-   "title": "[안랩] 보안 분석",
-   "deadline": "2026-12-31",
-   "deadline_type": "date",
-   "start_date": null,
-   "employment": "신입",
-   "sources": [
-    {
-     "source": "linkareer",
-     "source_id": "316650",
-     "url": "https://linkareer.com/activity/316650"
-    }
-   ],
-   "job_tags": [
-    "DevOps/클라우드/보안"
-   ],
-   "divisions": null,
-   "it_divisions": [],
-   "first_seen": "2026-11-21",
-   "last_seen": "2026-11-21",
-   "published_weeks": [],
-   "status": "open"
-  },
-  {
-   "id": "5332f831572f",
-   "company": "웹젠",
-   "company_name": "웹젠",
-   "title": "[웹젠] [Metin1] 게임기획(신입/경력)",
-   "deadline": "2026-12-31",
-   "deadline_type": "date",
-   "start_date": null,
-   "employment": "채용연계형 인턴",
-   "sources": [
-    {
-     "source": "linkareer",
-     "source_id": "332971",
-     "url": "https://linkareer.com/activity/332971"
-    }
-   ],
-   "job_tags": [
-    "게임개발/기획"
-   ],
-   "divisions": null,
-   "it_divisions": [],
-   "first_seen": "2026-11-21",
-   "last_seen": "2026-11-21",
+   "last_seen": "2026-11-22",
    "published_weeks": [],
    "status": "open"
   },
@@ -1694,8 +1824,40 @@
    ],
    "divisions": null,
    "it_divisions": [],
+   "apply_url": "https://webzen.recruiter.co.kr/career/jobs/120816",
+   "homepage_url": "https://www.webzen.co.kr/",
+   "detail_checked": true,
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-21",
+   "last_seen": "2026-11-22",
+   "published_weeks": [],
+   "status": "open"
+  },
+  {
+   "id": "5332f831572f",
+   "company": "웹젠",
+   "company_name": "웹젠",
+   "title": "[웹젠] [Metin1] 게임기획(신입/경력)",
+   "deadline": "2026-12-31",
+   "deadline_type": "date",
+   "start_date": null,
+   "employment": "채용연계형 인턴",
+   "sources": [
+    {
+     "source": "linkareer",
+     "source_id": "332971",
+     "url": "https://linkareer.com/activity/332971"
+    }
+   ],
+   "job_tags": [
+    "게임개발/기획"
+   ],
+   "divisions": null,
+   "it_divisions": [],
+   "apply_url": "https://webzen.recruiter.co.kr/career/jobs/120593",
+   "homepage_url": "https://www.webzen.co.kr/",
+   "detail_checked": true,
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-22",
    "published_weeks": [],
    "status": "open"
   },
@@ -1720,8 +1882,11 @@
    ],
    "divisions": null,
    "it_divisions": [],
+   "apply_url": "https://webzen.recruiter.co.kr/career/jobs/120818",
+   "homepage_url": "https://www.webzen.co.kr/",
+   "detail_checked": true,
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-21",
+   "last_seen": "2026-11-22",
    "published_weeks": [],
    "status": "open"
   },
@@ -1746,8 +1911,11 @@
    ],
    "divisions": null,
    "it_divisions": [],
+   "apply_url": "https://webzen.recruiter.co.kr/career/jobs/120822",
+   "homepage_url": "https://www.webzen.co.kr/",
+   "detail_checked": true,
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-21",
+   "last_seen": "2026-11-22",
    "published_weeks": [],
    "status": "open"
   },
@@ -1772,8 +1940,11 @@
    ],
    "divisions": null,
    "it_divisions": [],
+   "apply_url": "https://webzen.recruiter.co.kr/career/jobs/120439",
+   "homepage_url": "https://www.webzen.co.kr/",
+   "detail_checked": true,
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-21",
+   "last_seen": "2026-11-22",
    "published_weeks": [],
    "status": "open"
   },
@@ -1798,16 +1969,19 @@
    ],
    "divisions": null,
    "it_divisions": [],
+   "apply_url": "https://webzen.recruiter.co.kr/career/jobs/120466",
+   "homepage_url": "https://www.webzen.co.kr/",
+   "detail_checked": true,
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-21",
+   "last_seen": "2026-11-22",
    "published_weeks": [],
    "status": "open"
   },
   {
-   "id": "dbc162702984",
+   "id": "344c7e399fb5",
    "company": "이노션",
    "company_name": "이노션",
-   "title": "앱 서비스 기획 (상시채용 인재풀)",
+   "title": "웹 서비스 기획 (상시채용 인재풀)",
    "deadline": "2026-12-31",
    "deadline_type": "date",
    "start_date": "2026-10-15",
@@ -1815,31 +1989,28 @@
    "sources": [
     {
      "source": "jasoseol",
-     "source_id": "106748",
-     "url": "https://jasoseol.com/recruit/106748"
-    },
-    {
-     "source": "linkareer",
-     "source_id": "357245",
-     "url": "https://linkareer.com/activity/357245"
+     "source_id": "106741",
+     "url": "https://jasoseol.com/recruit/106741"
     }
    ],
    "job_tags": [
-    "서비스기획·PM",
-    "IT/개발"
+    "서비스기획·PM"
    ],
    "divisions": [
     {
-     "name": "앱 서비스 기획",
+     "name": "웹 서비스 기획",
      "is_it": true,
      "employment": "인턴"
     }
    ],
    "it_divisions": [
-    "앱 서비스 기획"
+    "웹 서비스 기획"
    ],
+   "apply_url": "https://innocean.recruiter.co.kr/career/jobs/122494",
+   "homepage_url": null,
+   "detail_checked": false,
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-21",
+   "last_seen": "2026-11-22",
    "published_weeks": [],
    "status": "open"
   },
@@ -1878,16 +2049,19 @@
    "it_divisions": [
     "웹/앱 전략·운영"
    ],
+   "apply_url": "https://innocean.recruiter.co.kr/career/jobs/122545",
+   "homepage_url": null,
+   "detail_checked": false,
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-21",
+   "last_seen": "2026-11-22",
    "published_weeks": [],
    "status": "open"
   },
   {
-   "id": "344c7e399fb5",
+   "id": "dbc162702984",
    "company": "이노션",
    "company_name": "이노션",
-   "title": "웹 서비스 기획 (상시채용 인재풀)",
+   "title": "앱 서비스 기획 (상시채용 인재풀)",
    "deadline": "2026-12-31",
    "deadline_type": "date",
    "start_date": "2026-10-15",
@@ -1895,25 +2069,34 @@
    "sources": [
     {
      "source": "jasoseol",
-     "source_id": "106741",
-     "url": "https://jasoseol.com/recruit/106741"
+     "source_id": "106748",
+     "url": "https://jasoseol.com/recruit/106748"
+    },
+    {
+     "source": "linkareer",
+     "source_id": "357245",
+     "url": "https://linkareer.com/activity/357245"
     }
    ],
    "job_tags": [
-    "서비스기획·PM"
+    "서비스기획·PM",
+    "IT/개발"
    ],
    "divisions": [
     {
-     "name": "웹 서비스 기획",
+     "name": "앱 서비스 기획",
      "is_it": true,
      "employment": "인턴"
     }
    ],
    "it_divisions": [
-    "웹 서비스 기획"
+    "앱 서비스 기획"
    ],
+   "apply_url": "https://innocean.recruiter.co.kr/career/jobs/122543",
+   "homepage_url": null,
+   "detail_checked": false,
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-21",
+   "last_seen": "2026-11-22",
    "published_weeks": [],
    "status": "open"
   },
@@ -1939,8 +2122,11 @@
    ],
    "divisions": null,
    "it_divisions": [],
+   "apply_url": "https://kortek.career.greetinghr.com/ko/o/231988",
+   "homepage_url": "https://www.kortek.co.kr/kor/index.do",
+   "detail_checked": true,
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-21",
+   "last_seen": "2026-11-22",
    "published_weeks": [],
    "status": "open"
   },
@@ -1970,8 +2156,11 @@
    ],
    "divisions": null,
    "it_divisions": [],
+   "apply_url": "https://www.jobkorea.co.kr/Recruit/GI_Read/43344783?Oem_Code=C1&PageGbn=ST",
+   "homepage_url": "https://www.ubivelox.com/",
+   "detail_checked": true,
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-21",
+   "last_seen": "2026-11-22",
    "published_weeks": [],
    "status": "open"
   },
@@ -2001,8 +2190,11 @@
    ],
    "divisions": null,
    "it_divisions": [],
+   "apply_url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=47082808&recommend_ids=eJxNj7EVxDAIQ6e5HsmAoL5Bsv8W51xebBcUHwkQLrAy%2FCrgo6%2FLHAN1tfHGFNtdr5pTTdo2t0VzYj5mN0u8alDC6LXKRd9q1jBnL7OYneuurGZxHYIhcM%2Fag0zj2Kgo006ljiOzVB3jWJWztc0xdCC8wB2y",
+   "homepage_url": "https://www.npc.co.kr/",
+   "detail_checked": true,
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-21",
+   "last_seen": "2026-11-22",
    "published_weeks": [],
    "status": "open"
   },
@@ -2027,8 +2219,11 @@
    ],
    "divisions": null,
    "it_divisions": [],
+   "apply_url": "https://forms.gle/JDniMmJnRN39ESU56",
+   "homepage_url": null,
+   "detail_checked": true,
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-21",
+   "last_seen": "2026-11-22",
    "published_weeks": [],
    "status": "open"
   },
@@ -2053,8 +2248,11 @@
    ],
    "divisions": null,
    "it_divisions": [],
+   "apply_url": "https://forms.gle/JDniMmJnRN39ESU56",
+   "homepage_url": null,
+   "detail_checked": true,
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-21",
+   "last_seen": "2026-11-22",
    "published_weeks": [],
    "status": "open"
   },
@@ -2079,8 +2277,11 @@
    ],
    "divisions": null,
    "it_divisions": [],
+   "apply_url": "https://career.oliveyoung.com/ko/o/211316",
+   "homepage_url": "https://corp.oliveyoung.com/ko",
+   "detail_checked": true,
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-21",
+   "last_seen": "2026-11-22",
    "published_weeks": [],
    "status": "open"
   },
@@ -2105,8 +2306,11 @@
    ],
    "divisions": null,
    "it_divisions": [],
+   "apply_url": null,
+   "homepage_url": "https://www.evsis.co.kr/h",
+   "detail_checked": true,
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-21",
+   "last_seen": "2026-11-22",
    "published_weeks": [],
    "status": "open"
   },
@@ -2131,8 +2335,11 @@
    ],
    "divisions": null,
    "it_divisions": [],
+   "apply_url": null,
+   "homepage_url": "http://fine-tech.kr/",
+   "detail_checked": true,
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-21",
+   "last_seen": "2026-11-22",
    "published_weeks": [],
    "status": "open"
   },
@@ -2157,8 +2364,11 @@
    ],
    "divisions": null,
    "it_divisions": [],
+   "apply_url": null,
+   "homepage_url": "http://www.kwinternational.com/",
+   "detail_checked": true,
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-21",
+   "last_seen": "2026-11-22",
    "published_weeks": [],
    "status": "open"
   },
@@ -2183,8 +2393,11 @@
    ],
    "divisions": null,
    "it_divisions": [],
+   "apply_url": "https://forms.gle/JDniMmJnRN39ESU56",
+   "homepage_url": null,
+   "detail_checked": true,
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-21",
+   "last_seen": "2026-11-22",
    "published_weeks": [],
    "status": "open"
   },
@@ -2210,8 +2423,11 @@
    ],
    "divisions": null,
    "it_divisions": [],
+   "apply_url": "https://www.lgresearch.ai/careers/view?seq=340",
+   "homepage_url": "https://www.lgbr.co.kr/index.do",
+   "detail_checked": true,
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-21",
+   "last_seen": "2026-11-22",
    "published_weeks": [],
    "status": "open"
   },
@@ -2236,34 +2452,11 @@
    ],
    "divisions": null,
    "it_divisions": [],
+   "apply_url": "https://careers.nhn.com/recruits/4442959527668758638",
+   "homepage_url": null,
+   "detail_checked": true,
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-21",
-   "published_weeks": [],
-   "status": "open"
-  },
-  {
-   "id": "f9bd40594c74",
-   "company": "nhn",
-   "company_name": "NHN",
-   "title": "[NHN Enterprise] IDC 운영자(인재풀)",
-   "deadline": null,
-   "deadline_type": "until_filled",
-   "start_date": null,
-   "employment": "신입",
-   "sources": [
-    {
-     "source": "linkareer",
-     "source_id": "352298",
-     "url": "https://linkareer.com/activity/352298"
-    }
-   ],
-   "job_tags": [
-    "DevOps/클라우드/보안"
-   ],
-   "divisions": null,
-   "it_divisions": [],
-   "first_seen": "2026-11-21",
-   "last_seen": "2026-11-21",
+   "last_seen": "2026-11-22",
    "published_weeks": [],
    "status": "open"
   },
@@ -2288,51 +2481,28 @@
    ],
    "divisions": null,
    "it_divisions": [],
+   "apply_url": "https://careers.nhn.com/recruits/4188040849792836347",
+   "homepage_url": null,
+   "detail_checked": true,
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-21",
+   "last_seen": "2026-11-22",
    "published_weeks": [],
    "status": "open"
   },
   {
-   "id": "64d09626592c",
-   "company": "nit서비스",
-   "company_name": "NIT서비스",
-   "title": "[NIT서비스] Naver IDC Network Engineer",
+   "id": "f9bd40594c74",
+   "company": "nhn",
+   "company_name": "NHN",
+   "title": "[NHN Enterprise] IDC 운영자(인재풀)",
    "deadline": null,
-   "deadline_type": "rolling",
+   "deadline_type": "until_filled",
    "start_date": null,
    "employment": "신입",
    "sources": [
     {
      "source": "linkareer",
-     "source_id": "364618",
-     "url": "https://linkareer.com/activity/364618"
-    }
-   ],
-   "job_tags": [
-    "IT/개발"
-   ],
-   "divisions": null,
-   "it_divisions": [],
-   "first_seen": "2026-11-21",
-   "last_seen": "2026-11-21",
-   "published_weeks": [],
-   "status": "open"
-  },
-  {
-   "id": "8ec1435e21e6",
-   "company": "nit서비스",
-   "company_name": "NIT서비스",
-   "title": "[NIT서비스] NAVER/CLOUD 보안관제",
-   "deadline": null,
-   "deadline_type": "rolling",
-   "start_date": null,
-   "employment": "신입",
-   "sources": [
-    {
-     "source": "linkareer",
-     "source_id": "364178",
-     "url": "https://linkareer.com/activity/364178"
+     "source_id": "352298",
+     "url": "https://linkareer.com/activity/352298"
     }
    ],
    "job_tags": [
@@ -2340,8 +2510,11 @@
    ],
    "divisions": null,
    "it_divisions": [],
+   "apply_url": "https://careers.nhn.com/recruits/4188035412535447997",
+   "homepage_url": null,
+   "detail_checked": true,
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-21",
+   "last_seen": "2026-11-22",
    "published_weeks": [],
    "status": "open"
   },
@@ -2367,25 +2540,28 @@
    ],
    "divisions": null,
    "it_divisions": [],
+   "apply_url": "https://recruit.nits-corp.com/nits/job/detail/tech?annoId=20014853&classId=&jobId=&entTypeCd=&searchTxt=",
+   "homepage_url": "https://www.nits-corp.com/",
+   "detail_checked": true,
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-21",
+   "last_seen": "2026-11-22",
    "published_weeks": [],
    "status": "open"
   },
   {
-   "id": "7f518ad91c01",
-   "company": "samkeeamerica",
-   "company_name": "Samkee America,",
-   "title": "현대기아차 1차협력사, (주)삼기 미국현지법인 - 각 부문 각각 채용 (숙소+출퇴근 차량 지원)",
+   "id": "64d09626592c",
+   "company": "nit서비스",
+   "company_name": "NIT서비스",
+   "title": "[NIT서비스] Naver IDC Network Engineer",
    "deadline": null,
-   "deadline_type": "until_filled",
+   "deadline_type": "rolling",
    "start_date": null,
-   "employment": "채용연계형 인턴",
+   "employment": "신입",
    "sources": [
     {
      "source": "linkareer",
-     "source_id": "360941",
-     "url": "https://linkareer.com/activity/360941"
+     "source_id": "364618",
+     "url": "https://linkareer.com/activity/364618"
     }
    ],
    "job_tags": [
@@ -2393,8 +2569,40 @@
    ],
    "divisions": null,
    "it_divisions": [],
+   "apply_url": "https://recruit.nits-corp.com/nits/job/detail/network?annoId=20014854&classId=&jobId=&entTypeCd=&searchTxt=",
+   "homepage_url": null,
+   "detail_checked": true,
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-21",
+   "last_seen": "2026-11-22",
+   "published_weeks": [],
+   "status": "open"
+  },
+  {
+   "id": "8ec1435e21e6",
+   "company": "nit서비스",
+   "company_name": "NIT서비스",
+   "title": "[NIT서비스] NAVER/CLOUD 보안관제",
+   "deadline": null,
+   "deadline_type": "rolling",
+   "start_date": null,
+   "employment": "신입",
+   "sources": [
+    {
+     "source": "linkareer",
+     "source_id": "364178",
+     "url": "https://linkareer.com/activity/364178"
+    }
+   ],
+   "job_tags": [
+    "DevOps/클라우드/보안"
+   ],
+   "divisions": null,
+   "it_divisions": [],
+   "apply_url": "https://recruit.nits-corp.com/nits/job/detail/security?annoId=20014474&classId=&jobId=&entTypeCd=&searchTxt=",
+   "homepage_url": null,
+   "detail_checked": true,
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-22",
    "published_weeks": [],
    "status": "open"
   },
@@ -2419,8 +2627,40 @@
    ],
    "divisions": null,
    "it_divisions": [],
+   "apply_url": null,
+   "homepage_url": "http://www.samkee.com/eng/main/",
+   "detail_checked": true,
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-21",
+   "last_seen": "2026-11-22",
+   "published_weeks": [],
+   "status": "open"
+  },
+  {
+   "id": "7f518ad91c01",
+   "company": "samkeeamerica",
+   "company_name": "Samkee America,",
+   "title": "현대기아차 1차협력사, (주)삼기 미국현지법인 - 각 부문 각각 채용 (숙소+출퇴근 차량 지원)",
+   "deadline": null,
+   "deadline_type": "until_filled",
+   "start_date": null,
+   "employment": "채용연계형 인턴",
+   "sources": [
+    {
+     "source": "linkareer",
+     "source_id": "360941",
+     "url": "https://linkareer.com/activity/360941"
+    }
+   ],
+   "job_tags": [
+    "IT/개발"
+   ],
+   "divisions": null,
+   "it_divisions": [],
+   "apply_url": null,
+   "homepage_url": null,
+   "detail_checked": true,
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-22",
    "published_weeks": [],
    "status": "open"
   },
@@ -2445,8 +2685,11 @@
    ],
    "divisions": null,
    "it_divisions": [],
+   "apply_url": null,
+   "homepage_url": "http://www.seohan.com/_ENG/",
+   "detail_checked": true,
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-21",
+   "last_seen": "2026-11-22",
    "published_weeks": [],
    "status": "open"
   },
@@ -2471,8 +2714,11 @@
    ],
    "divisions": null,
    "it_divisions": [],
+   "apply_url": null,
+   "homepage_url": "http://www.smamerica.com/",
+   "detail_checked": true,
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-21",
+   "last_seen": "2026-11-22",
    "published_weeks": [],
    "status": "open"
   },
@@ -2497,8 +2743,11 @@
    ],
    "divisions": null,
    "it_divisions": [],
+   "apply_url": "https://careers.gabia.com/",
+   "homepage_url": "https://www.gabia.com/",
+   "detail_checked": true,
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-21",
+   "last_seen": "2026-11-22",
    "published_weeks": [],
    "status": "open"
   },
@@ -2524,8 +2773,11 @@
    ],
    "divisions": null,
    "it_divisions": [],
+   "apply_url": "https://recruit.gwebscorp.com/gwebs/job/detail/portal?annoId=20013574&classId=&jobId=&entTypeCd=&searchTxt=",
+   "homepage_url": "https://www.gwebscorp.com/",
+   "detail_checked": true,
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-21",
+   "last_seen": "2026-11-22",
    "published_weeks": [],
    "status": "open"
   },
@@ -2551,8 +2803,11 @@
    ],
    "divisions": null,
    "it_divisions": [],
+   "apply_url": "https://www.neowiz.com/kr/career/browse-job/043c114d-fa84-4271-8c66-3b363a4e5971",
+   "homepage_url": "https://www.neowiz.com/kr",
+   "detail_checked": true,
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-21",
+   "last_seen": "2026-11-22",
    "published_weeks": [],
    "status": "open"
   },
@@ -2578,8 +2833,11 @@
    ],
    "divisions": null,
    "it_divisions": [],
+   "apply_url": "https://careers.nexon.com/recruit/10460?query=%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C+%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4+%28%EC%9D%B8%ED%84%B4%29&corpCodes=NX",
+   "homepage_url": "https://company.nexon.com/ko/",
+   "detail_checked": true,
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-21",
+   "last_seen": "2026-11-22",
    "published_weeks": [],
    "status": "open"
   },
@@ -2604,8 +2862,11 @@
    ],
    "divisions": null,
    "it_divisions": [],
+   "apply_url": "https://careers.nexon.com/recruit/10460",
+   "homepage_url": null,
+   "detail_checked": true,
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-21",
+   "last_seen": "2026-11-22",
    "published_weeks": [],
    "status": "open"
   },
@@ -2631,8 +2892,11 @@
    ],
    "divisions": null,
    "it_divisions": [],
+   "apply_url": "https://career.netmarble.com/announce/view?anno_id=1812",
+   "homepage_url": "https://www.netmarble.net/",
+   "detail_checked": true,
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-21",
+   "last_seen": "2026-11-22",
    "published_weeks": [],
    "status": "open"
   },
@@ -2657,8 +2921,11 @@
    ],
    "divisions": null,
    "it_divisions": [],
+   "apply_url": "https://www.3ds.com/careers/jobs/r-d-customer-success-intern-2-month-550373",
+   "homepage_url": "https://www.3ds.com/ko/",
+   "detail_checked": true,
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-21",
+   "last_seen": "2026-11-22",
    "published_weeks": [],
    "status": "open"
   },
@@ -2683,8 +2950,11 @@
    ],
    "divisions": null,
    "it_divisions": [],
+   "apply_url": "https://dorco.recruiter.co.kr/career/jobs/134097",
+   "homepage_url": "https://www.dorco.co.kr/kor/main/",
+   "detail_checked": true,
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-21",
+   "last_seen": "2026-11-22",
    "published_weeks": [],
    "status": "open"
   },
@@ -2709,8 +2979,11 @@
    ],
    "divisions": null,
    "it_divisions": [],
+   "apply_url": "https://dorco.recruiter.co.kr/career/jobs/129929",
+   "homepage_url": "https://www.dorco.co.kr/kor/main/",
+   "detail_checked": true,
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-21",
+   "last_seen": "2026-11-22",
    "published_weeks": [],
    "status": "open"
   },
@@ -2735,8 +3008,11 @@
    ],
    "divisions": null,
    "it_divisions": [],
+   "apply_url": null,
+   "homepage_url": "https://www.mais-ai.com/",
+   "detail_checked": true,
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-21",
+   "last_seen": "2026-11-22",
    "published_weeks": [],
    "status": "open"
   },
@@ -2761,8 +3037,11 @@
    ],
    "divisions": null,
    "it_divisions": [],
+   "apply_url": "https://manpowergroupkorea.ninehire.site/job_posting/KJyBRkZi",
+   "homepage_url": "https://manpower.co.kr/",
+   "detail_checked": true,
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-21",
+   "last_seen": "2026-11-22",
    "published_weeks": [],
    "status": "open"
   },
@@ -2787,8 +3066,11 @@
    ],
    "divisions": null,
    "it_divisions": [],
+   "apply_url": "https://career.megazone.com/job_posting/w3wkS9OY",
+   "homepage_url": "https://megazone.digital/",
+   "detail_checked": true,
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-21",
+   "last_seen": "2026-11-22",
    "published_weeks": [],
    "status": "open"
   },
@@ -2814,8 +3096,11 @@
    ],
    "divisions": null,
    "it_divisions": [],
+   "apply_url": "https://vntg.recruiter.co.kr/career/jobs/126103",
+   "homepage_url": "https://vntg.recruiter.co.kr/career/home",
+   "detail_checked": true,
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-21",
+   "last_seen": "2026-11-22",
    "published_weeks": [],
    "status": "open"
   },
@@ -2841,8 +3126,11 @@
    ],
    "divisions": null,
    "it_divisions": [],
+   "apply_url": "https://sambomotors.recruiter.co.kr/career/jobs/132857",
+   "homepage_url": "https://sambomotors.com/",
+   "detail_checked": true,
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-21",
+   "last_seen": "2026-11-22",
    "published_weeks": [],
    "status": "open"
   },
@@ -2868,8 +3156,11 @@
    ],
    "divisions": null,
    "it_divisions": [],
+   "apply_url": "https://www.pwc.com/kr/ko/career/experienced/r261030-1.html",
+   "homepage_url": "https://www.pwc.com/kr/ko.html",
+   "detail_checked": true,
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-21",
+   "last_seen": "2026-11-22",
    "published_weeks": [],
    "status": "open"
   },
@@ -2894,8 +3185,11 @@
    ],
    "divisions": null,
    "it_divisions": [],
+   "apply_url": "https://amkor.recruiter.co.kr/career/jobs/134042",
+   "homepage_url": "https://amkor.com/kr/",
+   "detail_checked": true,
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-21",
+   "last_seen": "2026-11-22",
    "published_weeks": [],
    "status": "open"
   },
@@ -2921,8 +3215,11 @@
    ],
    "divisions": null,
    "it_divisions": [],
+   "apply_url": "https://webzen.recruiter.co.kr/career/jobs/126108",
+   "homepage_url": "https://company.webzen.com/ko",
+   "detail_checked": true,
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-21",
+   "last_seen": "2026-11-22",
    "published_weeks": [],
    "status": "open"
   },
@@ -2947,35 +3244,11 @@
    ],
    "divisions": null,
    "it_divisions": [],
+   "apply_url": "https://recruit.incruit.com/yuhankimberly/",
+   "homepage_url": "https://www.yuhan-kimberly.co.kr/",
+   "detail_checked": true,
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-21",
-   "published_weeks": [],
-   "status": "open"
-  },
-  {
-   "id": "7a21cb198c4b",
-   "company": "카카오",
-   "company_name": "카카오",
-   "title": "[카카오] LLM Research Engineer (Pre-training) (신입/경력)",
-   "deadline": null,
-   "deadline_type": "until_filled",
-   "start_date": null,
-   "employment": "신입",
-   "sources": [
-    {
-     "source": "linkareer",
-     "source_id": "354844",
-     "url": "https://linkareer.com/activity/354844"
-    }
-   ],
-   "job_tags": [
-    "데이터분석",
-    "AI/ML엔지니어"
-   ],
-   "divisions": null,
-   "it_divisions": [],
-   "first_seen": "2026-11-21",
-   "last_seen": "2026-11-21",
+   "last_seen": "2026-11-22",
    "published_weeks": [],
    "status": "open"
   },
@@ -3001,8 +3274,41 @@
    ],
    "divisions": null,
    "it_divisions": [],
+   "apply_url": "https://careers.kakao.com/jobs/P-14558?skillSet=&part=TECHNOLOGY&company=KAKAO&keyword=&employeeType=&page=1",
+   "homepage_url": "https://www.kakaocorp.com/page/",
+   "detail_checked": true,
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-21",
+   "last_seen": "2026-11-22",
+   "published_weeks": [],
+   "status": "open"
+  },
+  {
+   "id": "7a21cb198c4b",
+   "company": "카카오",
+   "company_name": "카카오",
+   "title": "[카카오] LLM Research Engineer (Pre-training) (신입/경력)",
+   "deadline": null,
+   "deadline_type": "until_filled",
+   "start_date": null,
+   "employment": "신입",
+   "sources": [
+    {
+     "source": "linkareer",
+     "source_id": "354844",
+     "url": "https://linkareer.com/activity/354844"
+    }
+   ],
+   "job_tags": [
+    "데이터분석",
+    "AI/ML엔지니어"
+   ],
+   "divisions": null,
+   "it_divisions": [],
+   "apply_url": "https://careers.kakao.com/jobs/P-14559?skillSet=&part=TECHNOLOGY&company=KAKAO&keyword=&employeeType=&page=1",
+   "homepage_url": "https://www.kakaocorp.com/page/",
+   "detail_checked": true,
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-22",
    "published_weeks": [],
    "status": "open"
   },
@@ -3027,34 +3333,11 @@
    ],
    "divisions": null,
    "it_divisions": [],
+   "apply_url": "https://recruit.kakaobank.com/jobs/269299",
+   "homepage_url": "https://www.kakaobank.com/",
+   "detail_checked": true,
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-21",
-   "published_weeks": [],
-   "status": "open"
-  },
-  {
-   "id": "6a701670b1a8",
-   "company": "카카오스타일",
-   "company_name": "카카오스타일",
-   "title": "[카카오스타일] [인턴] 데이터 품질 운영(DQ)",
-   "deadline": null,
-   "deadline_type": "until_filled",
-   "start_date": null,
-   "employment": "인턴",
-   "sources": [
-    {
-     "source": "linkareer",
-     "source_id": "363687",
-     "url": "https://linkareer.com/activity/363687"
-    }
-   ],
-   "job_tags": [
-    "데이터분석"
-   ],
-   "divisions": null,
-   "it_divisions": [],
-   "first_seen": "2026-11-21",
-   "last_seen": "2026-11-21",
+   "last_seen": "2026-11-22",
    "published_weeks": [],
    "status": "open"
   },
@@ -3080,34 +3363,40 @@
    ],
    "divisions": null,
    "it_divisions": [],
+   "apply_url": "https://career.kakaostyle.com/job_posting/GHp916pw",
+   "homepage_url": null,
+   "detail_checked": true,
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-21",
+   "last_seen": "2026-11-22",
    "published_weeks": [],
    "status": "open"
   },
   {
-   "id": "f29293263ccc",
-   "company": "카카오엔터프라이즈",
-   "company_name": "카카오엔터프라이즈",
-   "title": "[카카오엔터프라이즈] [인프라실] Database Engineer 영입",
+   "id": "6a701670b1a8",
+   "company": "카카오스타일",
+   "company_name": "카카오스타일",
+   "title": "[카카오스타일] [인턴] 데이터 품질 운영(DQ)",
    "deadline": null,
    "deadline_type": "until_filled",
    "start_date": null,
-   "employment": "신입",
+   "employment": "인턴",
    "sources": [
     {
      "source": "linkareer",
-     "source_id": "361425",
-     "url": "https://linkareer.com/activity/361425"
+     "source_id": "363687",
+     "url": "https://linkareer.com/activity/363687"
     }
    ],
    "job_tags": [
-    "IT/개발"
+    "데이터분석"
    ],
    "divisions": null,
    "it_divisions": [],
+   "apply_url": "https://career.kakaostyle.com/job_posting/MlNg7vhD",
+   "homepage_url": "https://kakaostyle.com/",
+   "detail_checked": true,
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-21",
+   "last_seen": "2026-11-22",
    "published_weeks": [],
    "status": "open"
   },
@@ -3132,16 +3421,19 @@
    ],
    "divisions": null,
    "it_divisions": [],
+   "apply_url": "https://careers.kakaoenterprise.com/ko/o/242494",
+   "homepage_url": null,
+   "detail_checked": true,
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-21",
+   "last_seen": "2026-11-22",
    "published_weeks": [],
    "status": "open"
   },
   {
-   "id": "c6ddd22d9b6b",
-   "company": "카카오페이",
-   "company_name": "카카오페이",
-   "title": "[카카오페이] 서버 개발자 - 데이터 플랫폼",
+   "id": "f29293263ccc",
+   "company": "카카오엔터프라이즈",
+   "company_name": "카카오엔터프라이즈",
+   "title": "[카카오엔터프라이즈] [인프라실] Database Engineer 영입",
    "deadline": null,
    "deadline_type": "until_filled",
    "start_date": null,
@@ -3149,43 +3441,20 @@
    "sources": [
     {
      "source": "linkareer",
-     "source_id": "347439",
-     "url": "https://linkareer.com/activity/347439"
+     "source_id": "361425",
+     "url": "https://linkareer.com/activity/361425"
     }
    ],
    "job_tags": [
-    "백엔드/서버개발"
+    "IT/개발"
    ],
    "divisions": null,
    "it_divisions": [],
+   "apply_url": "https://careers.kakaoenterprise.com/ko/o/242480",
+   "homepage_url": null,
+   "detail_checked": true,
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-21",
-   "published_weeks": [],
-   "status": "open"
-  },
-  {
-   "id": "83f57a7423ef",
-   "company": "카카오페이",
-   "company_name": "카카오페이",
-   "title": "[카카오페이] [어시스턴트] 개인(신용)정보 보호 업무 지원",
-   "deadline": null,
-   "deadline_type": "until_filled",
-   "start_date": null,
-   "employment": "체험형 인턴",
-   "sources": [
-    {
-     "source": "linkareer",
-     "source_id": "346316",
-     "url": "https://linkareer.com/activity/346316"
-    }
-   ],
-   "job_tags": [
-    "DevOps/클라우드/보안"
-   ],
-   "divisions": null,
-   "it_divisions": [],
-   "first_seen": "2026-11-21",
-   "last_seen": "2026-11-21",
+   "last_seen": "2026-11-22",
    "published_weeks": [],
    "status": "open"
   },
@@ -3210,8 +3479,69 @@
    ],
    "divisions": null,
    "it_divisions": [],
+   "apply_url": "https://kakaopay.career.greetinghr.com/ko/o/214480",
+   "homepage_url": "https://www.kakaopay.com/",
+   "detail_checked": true,
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-21",
+   "last_seen": "2026-11-22",
+   "published_weeks": [],
+   "status": "open"
+  },
+  {
+   "id": "83f57a7423ef",
+   "company": "카카오페이",
+   "company_name": "카카오페이",
+   "title": "[카카오페이] [어시스턴트] 개인(신용)정보 보호 업무 지원",
+   "deadline": null,
+   "deadline_type": "until_filled",
+   "start_date": null,
+   "employment": "체험형 인턴",
+   "sources": [
+    {
+     "source": "linkareer",
+     "source_id": "346316",
+     "url": "https://linkareer.com/activity/346316"
+    }
+   ],
+   "job_tags": [
+    "DevOps/클라우드/보안"
+   ],
+   "divisions": null,
+   "it_divisions": [],
+   "apply_url": "https://kakaopay.career.greetinghr.com/ko/o/234823",
+   "homepage_url": "https://www.kakaopay.com/",
+   "detail_checked": true,
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-22",
+   "published_weeks": [],
+   "status": "open"
+  },
+  {
+   "id": "c6ddd22d9b6b",
+   "company": "카카오페이",
+   "company_name": "카카오페이",
+   "title": "[카카오페이] 서버 개발자 - 데이터 플랫폼",
+   "deadline": null,
+   "deadline_type": "until_filled",
+   "start_date": null,
+   "employment": "신입",
+   "sources": [
+    {
+     "source": "linkareer",
+     "source_id": "347439",
+     "url": "https://linkareer.com/activity/347439"
+    }
+   ],
+   "job_tags": [
+    "백엔드/서버개발"
+   ],
+   "divisions": null,
+   "it_divisions": [],
+   "apply_url": "https://kakaopay.career.greetinghr.com/ko/o/235177",
+   "homepage_url": "https://www.kakaopay.com/",
+   "detail_checked": true,
+   "first_seen": "2026-11-21",
+   "last_seen": "2026-11-22",
    "published_weeks": [],
    "status": "open"
   },
@@ -3237,8 +3567,11 @@
    ],
    "divisions": null,
    "it_divisions": [],
+   "apply_url": "https://connectwave.ninehire.site/job_posting/Rz6NGHVN",
+   "homepage_url": "https://connectwave.co.kr/",
+   "detail_checked": true,
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-21",
+   "last_seen": "2026-11-22",
    "published_weeks": [],
    "status": "open"
   },
@@ -3263,16 +3596,19 @@
    ],
    "divisions": null,
    "it_divisions": [],
+   "apply_url": "https://career.com2us.com/ko/o/243854",
+   "homepage_url": "https://www.com2us.com/ko",
+   "detail_checked": true,
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-21",
+   "last_seen": "2026-11-22",
    "published_weeks": [],
    "status": "open"
   },
   {
-   "id": "fdaa012c94d7",
+   "id": "8a6f5f901283",
    "company": "컴투스",
    "company_name": "컴투스",
-   "title": "[컴투스] 캐릭터 채팅 시스템 기획자 (신입/경력)",
+   "title": "[컴투스] 테크니컬 아티스트 (신입/경력)",
    "deadline": null,
    "deadline_type": "until_filled",
    "start_date": null,
@@ -3280,8 +3616,8 @@
    "sources": [
     {
      "source": "linkareer",
-     "source_id": "365154",
-     "url": "https://linkareer.com/activity/365154"
+     "source_id": "347101",
+     "url": "https://linkareer.com/activity/347101"
     }
    ],
    "job_tags": [
@@ -3289,8 +3625,11 @@
    ],
    "divisions": null,
    "it_divisions": [],
+   "apply_url": "https://com2us.recruiter.co.kr/career/jobs/126974",
+   "homepage_url": "https://www.com2us.com/ko",
+   "detail_checked": true,
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-21",
+   "last_seen": "2026-11-22",
    "published_weeks": [],
    "status": "open"
   },
@@ -3316,16 +3655,19 @@
    ],
    "divisions": null,
    "it_divisions": [],
+   "apply_url": "https://com2us.recruiter.co.kr/career/jobs/129186",
+   "homepage_url": "https://www.com2us.com/ko",
+   "detail_checked": true,
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-21",
+   "last_seen": "2026-11-22",
    "published_weeks": [],
    "status": "open"
   },
   {
-   "id": "8a6f5f901283",
+   "id": "fdaa012c94d7",
    "company": "컴투스",
    "company_name": "컴투스",
-   "title": "[컴투스] 테크니컬 아티스트 (신입/경력)",
+   "title": "[컴투스] 캐릭터 채팅 시스템 기획자 (신입/경력)",
    "deadline": null,
    "deadline_type": "until_filled",
    "start_date": null,
@@ -3333,8 +3675,8 @@
    "sources": [
     {
      "source": "linkareer",
-     "source_id": "347101",
-     "url": "https://linkareer.com/activity/347101"
+     "source_id": "365154",
+     "url": "https://linkareer.com/activity/365154"
     }
    ],
    "job_tags": [
@@ -3342,8 +3684,11 @@
    ],
    "divisions": null,
    "it_divisions": [],
+   "apply_url": "https://career.com2us.com/ko/o/243853",
+   "homepage_url": "https://www.com2us.com/ko",
+   "detail_checked": true,
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-21",
+   "last_seen": "2026-11-22",
    "published_weeks": [],
    "status": "open"
   },
@@ -3368,8 +3713,11 @@
    ],
    "divisions": null,
    "it_divisions": [],
+   "apply_url": "https://job-boards.greenhouse.io/krafton/jobs/8908460002",
+   "homepage_url": null,
+   "detail_checked": true,
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-21",
+   "last_seen": "2026-11-22",
    "published_weeks": [],
    "status": "open"
   },
@@ -3394,8 +3742,11 @@
    ],
    "divisions": null,
    "it_divisions": [],
+   "apply_url": "https://cloocus.recruiter.im/jobs/6272",
+   "homepage_url": "https://www.cloocus.com/",
+   "detail_checked": true,
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-21",
+   "last_seen": "2026-11-22",
    "published_weeks": [],
    "status": "open"
   },
@@ -3420,8 +3771,11 @@
    ],
    "divisions": null,
    "it_divisions": [],
+   "apply_url": "https://hankook-networks.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=271309&entrySn=1",
+   "homepage_url": null,
+   "detail_checked": true,
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-21",
+   "last_seen": "2026-11-22",
    "published_weeks": [],
    "status": "open"
   },
@@ -3446,8 +3800,11 @@
    ],
    "divisions": null,
    "it_divisions": [],
+   "apply_url": "https://hancom.career.greetinghr.com/ko/o/242319",
+   "homepage_url": "https://www.hancom.com/",
+   "detail_checked": true,
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-21",
+   "last_seen": "2026-11-22",
    "published_weeks": [],
    "status": "open"
   },
@@ -3472,8 +3829,11 @@
    ],
    "divisions": null,
    "it_divisions": [],
+   "apply_url": "https://recruit.ehyundai.com/recruit-info/announcement/view.nhd?hireId=2027002&regCoCd=HDHCN",
+   "homepage_url": "https://hyundaifuturenet.com/index.do",
+   "detail_checked": true,
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-21",
+   "last_seen": "2026-11-22",
    "published_weeks": [],
    "status": "open"
   }
